@@ -1,0 +1,474 @@
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-recursive
+Making check in tests
+Making check in .
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  libtests.la t-bswap t-constants t-count_zeros t-gmpmax t-hightomask t-modlinv t-popc t-parity t-sub
+make[4]: `libtests.la' is up to date.
+make[4]: `t-bswap' is up to date.
+make[4]: `t-constants' is up to date.
+make[4]: `t-count_zeros' is up to date.
+make[4]: `t-gmpmax' is up to date.
+make[4]: `t-hightomask' is up to date.
+make[4]: `t-modlinv' is up to date.
+make[4]: `t-popc' is up to date.
+make[4]: `t-parity' is up to date.
+make[4]: `t-sub' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-bswap
+PASS: t-constants
+PASS: t-count_zeros
+PASS: t-gmpmax
+PASS: t-hightomask
+PASS: t-modlinv
+PASS: t-popc
+PASS: t-parity
+PASS: t-sub
+==================
+All 9 tests passed
+==================
+Making check in devel
+make[3]: Nothing to be done for `check'.
+Making check in mpn
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-asmtype t-aors_1 t-divrem_1 t-mod_1 t-fat t-get_d t-instrument t-iord_u t-mp_bases t-perfsqr t-scan logic t-toom22 t-toom32 t-toom33 t-toom42 t-toom43 t-toom44 t-toom52 t-toom53 t-toom62 t-toom63 t-toom6h t-toom8h t-mul t-mullo t-mulmod_bnm1 t-sqrmod_bnm1 t-hgcd t-matrix22 t-invert t-div t-bdiv
+make[4]: `t-asmtype' is up to date.
+make[4]: `t-aors_1' is up to date.
+make[4]: `t-divrem_1' is up to date.
+make[4]: `t-mod_1' is up to date.
+make[4]: `t-fat' is up to date.
+make[4]: `t-get_d' is up to date.
+make[4]: `t-instrument' is up to date.
+make[4]: `t-iord_u' is up to date.
+make[4]: `t-mp_bases' is up to date.
+make[4]: `t-perfsqr' is up to date.
+make[4]: `t-scan' is up to date.
+make[4]: `logic' is up to date.
+make[4]: `t-toom22' is up to date.
+make[4]: `t-toom32' is up to date.
+make[4]: `t-toom33' is up to date.
+make[4]: `t-toom42' is up to date.
+make[4]: `t-toom43' is up to date.
+make[4]: `t-toom44' is up to date.
+make[4]: `t-toom52' is up to date.
+make[4]: `t-toom53' is up to date.
+make[4]: `t-toom62' is up to date.
+make[4]: `t-toom63' is up to date.
+make[4]: `t-toom6h' is up to date.
+make[4]: `t-toom8h' is up to date.
+make[4]: `t-mul' is up to date.
+make[4]: `t-mullo' is up to date.
+make[4]: `t-mulmod_bnm1' is up to date.
+make[4]: `t-sqrmod_bnm1' is up to date.
+make[4]: `t-hgcd' is up to date.
+make[4]: `t-matrix22' is up to date.
+make[4]: `t-invert' is up to date.
+make[4]: `t-div' is up to date.
+make[4]: `t-bdiv' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-asmtype
+PASS: t-aors_1
+PASS: t-divrem_1
+PASS: t-mod_1
+PASS: t-fat
+PASS: t-get_d
+PASS: t-instrument
+PASS: t-iord_u
+PASS: t-mp_bases
+PASS: t-perfsqr
+PASS: t-scan
+PASS: logic
+PASS: t-toom22
+PASS: t-toom32
+PASS: t-toom33
+PASS: t-toom42
+PASS: t-toom43
+PASS: t-toom44
+PASS: t-toom52
+PASS: t-toom53
+PASS: t-toom62
+PASS: t-toom63
+PASS: t-toom6h
+PASS: t-toom8h
+PASS: t-mul
+PASS: t-mullo
+PASS: t-mulmod_bnm1
+PASS: t-sqrmod_bnm1
+PASS: t-hgcd
+PASS: t-matrix22
+PASS: t-invert
+PASS: t-div
+PASS: t-bdiv
+===================
+All 33 tests passed
+===================
+Making check in mpz
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-addsub t-cmp t-mul t-mul_i t-tdiv t-tdiv_ui t-fdiv t-fdiv_ui t-cdiv_ui t-gcd t-gcd_ui t-lcm t-invert dive dive_ui t-sqrtrem convert io t-inp_str logic bit t-powm t-powm_ui t-pow t-div_2exp reuse t-root t-perfsqr t-perfpow t-jac t-bin t-get_d t-get_d_2exp t-get_si t-set_d t-set_si t-fac_ui t-fib_ui t-lucnum_ui t-scan t-fits t-divis t-divis_2exp t-cong t-cong_2exp t-sizeinbase t-set_str t-aorsmul t-cmp_d t-cmp_si t-hamdist t-oddeven t-popcount t-set_f t-io_raw t-import t-export t-pprime_p t-nextprime
+make[4]: `t-addsub' is up to date.
+make[4]: `t-cmp' is up to date.
+make[4]: `t-mul' is up to date.
+make[4]: `t-mul_i' is up to date.
+make[4]: `t-tdiv' is up to date.
+make[4]: `t-tdiv_ui' is up to date.
+make[4]: `t-fdiv' is up to date.
+make[4]: `t-fdiv_ui' is up to date.
+make[4]: `t-cdiv_ui' is up to date.
+make[4]: `t-gcd' is up to date.
+make[4]: `t-gcd_ui' is up to date.
+make[4]: `t-lcm' is up to date.
+make[4]: `t-invert' is up to date.
+make[4]: `dive' is up to date.
+make[4]: `dive_ui' is up to date.
+make[4]: `t-sqrtrem' is up to date.
+make[4]: `convert' is up to date.
+make[4]: `io' is up to date.
+make[4]: `t-inp_str' is up to date.
+make[4]: `logic' is up to date.
+make[4]: `bit' is up to date.
+make[4]: `t-powm' is up to date.
+make[4]: `t-powm_ui' is up to date.
+make[4]: `t-pow' is up to date.
+make[4]: `t-div_2exp' is up to date.
+make[4]: `reuse' is up to date.
+make[4]: `t-root' is up to date.
+make[4]: `t-perfsqr' is up to date.
+make[4]: `t-perfpow' is up to date.
+make[4]: `t-jac' is up to date.
+make[4]: `t-bin' is up to date.
+make[4]: `t-get_d' is up to date.
+make[4]: `t-get_d_2exp' is up to date.
+make[4]: `t-get_si' is up to date.
+make[4]: `t-set_d' is up to date.
+make[4]: `t-set_si' is up to date.
+make[4]: `t-fac_ui' is up to date.
+make[4]: `t-fib_ui' is up to date.
+make[4]: `t-lucnum_ui' is up to date.
+make[4]: `t-scan' is up to date.
+make[4]: `t-fits' is up to date.
+make[4]: `t-divis' is up to date.
+make[4]: `t-divis_2exp' is up to date.
+make[4]: `t-cong' is up to date.
+make[4]: `t-cong_2exp' is up to date.
+make[4]: `t-sizeinbase' is up to date.
+make[4]: `t-set_str' is up to date.
+make[4]: `t-aorsmul' is up to date.
+make[4]: `t-cmp_d' is up to date.
+make[4]: `t-cmp_si' is up to date.
+make[4]: `t-hamdist' is up to date.
+make[4]: `t-oddeven' is up to date.
+make[4]: `t-popcount' is up to date.
+make[4]: `t-set_f' is up to date.
+make[4]: `t-io_raw' is up to date.
+make[4]: `t-import' is up to date.
+make[4]: `t-export' is up to date.
+make[4]: `t-pprime_p' is up to date.
+make[4]: `t-nextprime' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-addsub
+PASS: t-cmp
+PASS: t-mul
+PASS: t-mul_i
+PASS: t-tdiv
+PASS: t-tdiv_ui
+PASS: t-fdiv
+PASS: t-fdiv_ui
+PASS: t-cdiv_ui
+PASS: t-gcd
+PASS: t-gcd_ui
+PASS: t-lcm
+PASS: t-invert
+PASS: dive
+PASS: dive_ui
+PASS: t-sqrtrem
+PASS: convert
+PASS: io
+PASS: t-inp_str
+PASS: logic
+PASS: bit
+PASS: t-powm
+PASS: t-powm_ui
+PASS: t-pow
+PASS: t-div_2exp
+PASS: reuse
+PASS: t-root
+PASS: t-perfsqr
+PASS: t-perfpow
+PASS: t-jac
+PASS: t-bin
+PASS: t-get_d
+PASS: t-get_d_2exp
+PASS: t-get_si
+PASS: t-set_d
+PASS: t-set_si
+PASS: t-fac_ui
+PASS: t-fib_ui
+PASS: t-lucnum_ui
+PASS: t-scan
+PASS: t-fits
+PASS: t-divis
+PASS: t-divis_2exp
+PASS: t-cong
+PASS: t-cong_2exp
+PASS: t-sizeinbase
+PASS: t-set_str
+PASS: t-aorsmul
+PASS: t-cmp_d
+PASS: t-cmp_si
+PASS: t-hamdist
+PASS: t-oddeven
+PASS: t-popcount
+PASS: t-set_f
+PASS: t-io_raw
+PASS: t-import
+PASS: t-export
+PASS: t-pprime_p
+PASS: t-nextprime
+===================
+All 59 tests passed
+===================
+Making check in mpq
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-aors t-cmp t-cmp_ui t-cmp_si t-equal t-get_d t-get_str t-inp_str t-md_2exp t-set_f t-set_str
+make[4]: `t-aors' is up to date.
+make[4]: `t-cmp' is up to date.
+make[4]: `t-cmp_ui' is up to date.
+make[4]: `t-cmp_si' is up to date.
+make[4]: `t-equal' is up to date.
+make[4]: `t-get_d' is up to date.
+make[4]: `t-get_str' is up to date.
+make[4]: `t-inp_str' is up to date.
+make[4]: `t-md_2exp' is up to date.
+make[4]: `t-set_f' is up to date.
+make[4]: `t-set_str' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-aors
+PASS: t-cmp
+PASS: t-cmp_ui
+PASS: t-cmp_si
+PASS: t-equal
+PASS: t-get_d
+PASS: t-get_str
+PASS: t-inp_str
+PASS: t-md_2exp
+PASS: t-set_f
+PASS: t-set_str
+===================
+All 11 tests passed
+===================
+Making check in mpf
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-add t-sub t-conv t-sqrt t-sqrt_ui t-muldiv t-dm2exp reuse t-cmp_d t-cmp_si t-div t-fits t-get_d t-get_d_2exp t-get_si t-get_ui t-gsprec t-inp_str t-int_p t-mul_ui t-set t-set_q t-set_si t-set_ui t-trunc t-ui_div t-eq
+make[4]: `t-add' is up to date.
+make[4]: `t-sub' is up to date.
+make[4]: `t-conv' is up to date.
+make[4]: `t-sqrt' is up to date.
+make[4]: `t-sqrt_ui' is up to date.
+make[4]: `t-muldiv' is up to date.
+make[4]: `t-dm2exp' is up to date.
+make[4]: `reuse' is up to date.
+make[4]: `t-cmp_d' is up to date.
+make[4]: `t-cmp_si' is up to date.
+make[4]: `t-div' is up to date.
+make[4]: `t-fits' is up to date.
+make[4]: `t-get_d' is up to date.
+make[4]: `t-get_d_2exp' is up to date.
+make[4]: `t-get_si' is up to date.
+make[4]: `t-get_ui' is up to date.
+make[4]: `t-gsprec' is up to date.
+make[4]: `t-inp_str' is up to date.
+make[4]: `t-int_p' is up to date.
+make[4]: `t-mul_ui' is up to date.
+make[4]: `t-set' is up to date.
+make[4]: `t-set_q' is up to date.
+make[4]: `t-set_si' is up to date.
+make[4]: `t-set_ui' is up to date.
+make[4]: `t-trunc' is up to date.
+make[4]: `t-ui_div' is up to date.
+make[4]: `t-eq' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-add
+PASS: t-sub
+PASS: t-conv
+PASS: t-sqrt
+PASS: t-sqrt_ui
+PASS: t-muldiv
+PASS: t-dm2exp
+PASS: reuse
+PASS: t-cmp_d
+PASS: t-cmp_si
+PASS: t-div
+PASS: t-fits
+PASS: t-get_d
+PASS: t-get_d_2exp
+PASS: t-get_si
+PASS: t-get_ui
+PASS: t-gsprec
+PASS: t-inp_str
+PASS: t-int_p
+PASS: t-mul_ui
+PASS: t-set
+PASS: t-set_q
+PASS: t-set_si
+PASS: t-set_ui
+PASS: t-trunc
+PASS: t-ui_div
+PASS: t-eq
+===================
+All 27 tests passed
+===================
+Making check in rand
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-iset t-lc2exp t-mt t-rand t-urbui t-urmui t-urndmm
+make[4]: `t-iset' is up to date.
+make[4]: `t-lc2exp' is up to date.
+make[4]: `t-mt' is up to date.
+make[4]: `t-rand' is up to date.
+make[4]: `t-urbui' is up to date.
+make[4]: `t-urmui' is up to date.
+make[4]: `t-urndmm' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-iset
+PASS: t-lc2exp
+PASS: t-mt
+PASS: t-rand
+PASS: t-urbui
+PASS: t-urmui
+PASS: t-urndmm
+==================
+All 7 tests passed
+==================
+Making check in misc
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-printf t-scanf t-locale
+make[4]: `t-printf' is up to date.
+make[4]: `t-scanf' is up to date.
+make[4]: `t-locale' is up to date.
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-printf
+PASS: t-scanf
+Test skipped, replacing localeconv/nl_langinfo doesn't work
+PASS: t-locale
+==================
+All 3 tests passed
+==================
+Making check in cxx
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  t-assign t-binary t-cast t-constr t-headers t-istream t-locale t-misc t-ops t-ostream t-prec t-rand t-ternary t-unary
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-assign.o t-assign.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-assign t-assign.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-assign t-assign.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-binary.o t-binary.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-binary t-binary.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-binary t-binary.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-cast.o t-cast.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-cast t-cast.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-cast t-cast.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-constr.o t-constr.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-constr t-constr.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-constr t-constr.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-headers.o t-headers.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-headers t-headers.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-headers t-headers.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-istream.o t-istream.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-istream t-istream.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-istream t-istream.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-locale.o t-locale.cc
+gcc -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c clocale.c
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-locale t-locale.o clocale.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-locale t-locale.o clocale.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-misc.o t-misc.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-misc t-misc.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-misc t-misc.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-ops.o t-ops.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-ops t-ops.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-ops t-ops.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-ostream.o t-ostream.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-ostream t-ostream.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-ostream t-ostream.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-prec.o t-prec.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-prec t-prec.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-prec t-prec.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-rand.o t-rand.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-rand t-rand.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-rand t-rand.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-ternary.o t-ternary.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-ternary t-ternary.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-ternary t-ternary.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+g++ -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c -o t-unary.o t-unary.cc
+/bin/sh ../../libtool --tag=CXX   --mode=link g++  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-unary t-unary.o -L../../.libs ../../tests/libtests.la ../../libgmpxx.la ../../libgmp.la 
+libtool: link: g++ -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-unary t-unary.o -Wl,-bind_at_load  -L../../.libs ../../tests/.libs/libtests.a ../../.libs/libgmpxx.dylib /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libgmp.dylib
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: t-assign
+PASS: t-binary
+PASS: t-cast
+PASS: t-constr
+PASS: t-headers
+PASS: t-istream
+PASS: t-locale
+PASS: t-misc
+PASS: t-ops
+PASS: t-ostream
+PASS: t-prec
+PASS: t-rand
+PASS: t-ternary
+PASS: t-unary
+===================
+All 14 tests passed
+===================
+Making check in mpbsd
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  allfuns t-itom t-mtox
+gcc -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c allfuns.c
+In file included from allfuns.c:23:
+../../mp.h:150:21: warning: incompatible redeclaration of library function 'pow' [-Wincompatible-library-redeclaration]
+__GMP_DECLSPEC void pow __GMP_PROTO ((const MINT *, const MINT *, const MINT *, MINT *));
+                    ^
+../../mp.h:150:21: note: 'pow' is a builtin with type 'double (double, double)'
+1 warning generated.
+/bin/sh ../../libtool --tag=CC   --mode=link gcc  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o allfuns allfuns.o ../../libmp.la 
+libtool: link: gcc -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/allfuns allfuns.o  ../../.libs/libmp.dylib
+gcc -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c t-itom.c
+In file included from t-itom.c:24:
+../../mp.h:150:21: warning: incompatible redeclaration of library function 'pow' [-Wincompatible-library-redeclaration]
+__GMP_DECLSPEC void pow __GMP_PROTO ((const MINT *, const MINT *, const MINT *, MINT *));
+                    ^
+../../mp.h:150:21: note: 'pow' is a builtin with type 'double (double, double)'
+1 warning generated.
+/bin/sh ../../libtool --tag=CC   --mode=link gcc  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-itom t-itom.o ../../tests/libtests.la ../../libmp.la 
+libtool: link: gcc -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-itom t-itom.o  ../../tests/.libs/libtests.a /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libmp.dylib
+gcc -DHAVE_CONFIG_H -I. -I../.. -I../.. -I../../tests    -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -c t-mtox.c
+In file included from t-mtox.c:25:
+../../mp.h:150:21: warning: incompatible redeclaration of library function 'pow' [-Wincompatible-library-redeclaration]
+__GMP_DECLSPEC void pow __GMP_PROTO ((const MINT *, const MINT *, const MINT *, MINT *));
+                    ^
+../../mp.h:150:21: note: 'pow' is a builtin with type 'double (double, double)'
+1 warning generated.
+/bin/sh ../../libtool --tag=CC   --mode=link gcc  -O2 -pedantic -m64 -mtune=corei7 -march=corei7   -o t-mtox t-mtox.o ../../tests/libtests.la ../../libmp.la 
+libtool: link: gcc -O2 -pedantic -m64 -mtune=corei7 -march=corei7 -o .libs/t-mtox t-mtox.o  ../../tests/.libs/libtests.a /Users/ganzhenchao/Workspaces/Coursera-Course/Stanford-Crypto1/week6/gmp-5.0.5/.libs/libgmp.dylib ../../.libs/libmp.dylib
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-TESTS
+PASS: allfuns
+PASS: t-itom
+Skipping t-mtox, cannot test libgmp and libmp memory together
+PASS: t-mtox
+==================
+All 3 tests passed
+==================
+Making check in mpn
+make[2]: Nothing to be done for `check'.
+Making check in mpz
+make[2]: Nothing to be done for `check'.
+Making check in mpq
+make[2]: Nothing to be done for `check'.
+Making check in mpf
+make[2]: Nothing to be done for `check'.
+Making check in printf
+make[2]: Nothing to be done for `check'.
+Making check in scanf
+make[2]: Nothing to be done for `check'.
+Making check in cxx
+make[2]: Nothing to be done for `check'.
+Making check in mpbsd
+make[2]: Nothing to be done for `check'.
+Making check in demos
+Making check in calc
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  check-am
+make[4]: Nothing to be done for `check-am'.
+Making check in expr
+make[3]: Nothing to be done for `check'.
+make[3]: Nothing to be done for `check-am'.
+Making check in tune
+make[2]: Nothing to be done for `check'.
+Making check in doc
+make[2]: Nothing to be done for `check'.
+make[2]: Nothing to be done for `check-am'.
